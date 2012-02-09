@@ -1,0 +1,6 @@
+name = Imagecache Token
+description = Provides additional image tokens for use with ImageCache
+dependencies[] = image
+package = Image
+core = 7.x
+
